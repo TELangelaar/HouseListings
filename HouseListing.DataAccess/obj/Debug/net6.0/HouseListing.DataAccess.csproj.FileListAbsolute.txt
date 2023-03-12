@@ -1,0 +1,12 @@
+E:\Programmeren\DotNetCore\HouseListing\HouseListing.DataAccess\bin\Debug\net6.0\HouseListing.DataAccess.deps.json
+E:\Programmeren\DotNetCore\HouseListing\HouseListing.DataAccess\bin\Debug\net6.0\HouseListing.DataAccess.dll
+E:\Programmeren\DotNetCore\HouseListing\HouseListing.DataAccess\bin\Debug\net6.0\HouseListing.DataAccess.pdb
+E:\Programmeren\DotNetCore\HouseListing\HouseListing.DataAccess\obj\Debug\net6.0\HouseListing.DataAccess.csproj.AssemblyReference.cache
+E:\Programmeren\DotNetCore\HouseListing\HouseListing.DataAccess\obj\Debug\net6.0\HouseListing.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmeren\DotNetCore\HouseListing\HouseListing.DataAccess\obj\Debug\net6.0\HouseListing.DataAccess.AssemblyInfoInputs.cache
+E:\Programmeren\DotNetCore\HouseListing\HouseListing.DataAccess\obj\Debug\net6.0\HouseListing.DataAccess.AssemblyInfo.cs
+E:\Programmeren\DotNetCore\HouseListing\HouseListing.DataAccess\obj\Debug\net6.0\HouseListing.DataAccess.csproj.CoreCompileInputs.cache
+E:\Programmeren\DotNetCore\HouseListing\HouseListing.DataAccess\obj\Debug\net6.0\HouseListing.DataAccess.dll
+E:\Programmeren\DotNetCore\HouseListing\HouseListing.DataAccess\obj\Debug\net6.0\refint\HouseListing.DataAccess.dll
+E:\Programmeren\DotNetCore\HouseListing\HouseListing.DataAccess\obj\Debug\net6.0\HouseListing.DataAccess.pdb
+E:\Programmeren\DotNetCore\HouseListing\HouseListing.DataAccess\obj\Debug\net6.0\ref\HouseListing.DataAccess.dll
